@@ -1,0 +1,101 @@
+05-Oct-2020 09:32:43.005 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+05-Oct-2020 09:32:43.016 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+05-Oct-2020 09:32:43.016 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+05-Oct-2020 09:32:43.017 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Oct-2020 09:32:43.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+05-Oct-2020 09:32:43.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Oct-2020 09:32:43.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-14.0.1
+05-Oct-2020 09:32:43.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           14.0.1+7
+05-Oct-2020 09:32:43.018 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Oct-2020 09:32:43.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38
+05-Oct-2020 09:32:43.019 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38
+05-Oct-2020 09:32:43.089 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Oct-2020 09:32:43.090 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Oct-2020 09:32:43.090 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Oct-2020 09:32:43.090 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\conf\logging.properties
+05-Oct-2020 09:32:43.090 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Oct-2020 09:32:43.091 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DUC-TIN
+05-Oct-2020 09:32:43.091 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Oct-2020 09:32:43.092 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Oct-2020 09:32:43.092 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Oct-2020 09:32:43.093 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38
+05-Oct-2020 09:32:43.093 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38
+05-Oct-2020 09:32:43.093 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\temp
+05-Oct-2020 09:32:43.133 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-14.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\DTS\Binn\;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;c:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;;.]
+05-Oct-2020 09:32:44.332 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Oct-2020 09:32:44.746 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2345] milliseconds
+05-Oct-2020 09:32:44.897 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Oct-2020 09:32:44.898 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+05-Oct-2020 09:32:44.937 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\docs]
+05-Oct-2020 09:32:46.525 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\docs] has finished in [1,587] ms
+05-Oct-2020 09:32:46.529 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\examples]
+05-Oct-2020 09:32:51.050 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\examples] has finished in [4,521] ms
+05-Oct-2020 09:32:51.052 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\host-manager]
+05-Oct-2020 09:32:51.396 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\host-manager] has finished in [344] ms
+05-Oct-2020 09:32:51.398 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\manager]
+05-Oct-2020 09:32:51.646 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\manager] has finished in [249] ms
+05-Oct-2020 09:32:51.648 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\ROOT]
+05-Oct-2020 09:32:51.841 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\ROOT] has finished in [193] ms
+05-Oct-2020 09:32:51.854 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Oct-2020 09:32:51.883 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [7133] milliseconds
+05-Oct-2020 09:34:26.415 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\conf\Catalina\localhost\G5CinemaMovie.xml]
+05-Oct-2020 09:34:26.427 WARNING [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/G5CinemaMovie] in deployment descriptor [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\conf\Catalina\localhost\G5CinemaMovie.xml] has been ignored
+05-Oct-2020 09:34:27.894 INFO [http-nio-8080-exec-7] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Oct-2020 09:34:27.910 INFO [http-nio-8080-exec-7] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\conf\Catalina\localhost\G5CinemaMovie.xml] has finished in [1,494] ms
+05-Oct-2020 09:34:27.917 INFO [http-nio-8080-exec-2] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/G5CinemaMovie]] after start() had already been called. The second call will be ignored.
+05-Oct-2020 09:44:32.562 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+05-Oct-2020 09:44:32.563 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Oct-2020 09:44:32.581 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Oct-2020 09:44:32.628 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Oct-2020 09:44:32.678 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+05-Oct-2020 09:57:50.390 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.38
+05-Oct-2020 09:57:50.398 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Sep 10 2020 08:20:30 UTC
+05-Oct-2020 09:57:50.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.38.0
+05-Oct-2020 09:57:50.401 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+05-Oct-2020 09:57:50.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+05-Oct-2020 09:57:50.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+05-Oct-2020 09:57:50.403 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-14.0.1
+05-Oct-2020 09:57:50.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           14.0.1+7
+05-Oct-2020 09:57:50.404 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+05-Oct-2020 09:57:50.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38
+05-Oct-2020 09:57:50.405 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38
+05-Oct-2020 09:57:50.439 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+05-Oct-2020 09:57:50.439 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+05-Oct-2020 09:57:50.440 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+05-Oct-2020 09:57:50.440 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\conf\logging.properties
+05-Oct-2020 09:57:50.440 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+05-Oct-2020 09:57:50.440 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|DUC-TIN
+05-Oct-2020 09:57:50.441 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+05-Oct-2020 09:57:50.441 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+05-Oct-2020 09:57:50.441 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+05-Oct-2020 09:57:50.441 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38
+05-Oct-2020 09:57:50.441 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38
+05-Oct-2020 09:57:50.442 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\temp
+05-Oct-2020 09:57:50.506 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-14.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\Tools\Binn\;c:\Program Files\Microsoft SQL Server\110\DTS\Binn\;c:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;c:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;C:\adb;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;;.]
+05-Oct-2020 09:57:51.765 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+05-Oct-2020 09:57:51.997 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2349] milliseconds
+05-Oct-2020 09:57:52.131 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+05-Oct-2020 09:57:52.132 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.38]
+05-Oct-2020 09:57:52.173 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\conf\Catalina\localhost\G5CinemaMovie.xml]
+05-Oct-2020 09:57:52.258 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/G5CinemaMovie] in deployment descriptor [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\conf\Catalina\localhost\G5CinemaMovie.xml] has been ignored
+05-Oct-2020 09:57:54.578 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+05-Oct-2020 09:57:54.862 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\conf\Catalina\localhost\G5CinemaMovie.xml] has finished in [2,689] ms
+05-Oct-2020 09:57:54.864 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\docs]
+05-Oct-2020 09:57:55.051 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\docs] has finished in [186] ms
+05-Oct-2020 09:57:55.054 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\examples]
+05-Oct-2020 09:57:59.919 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\examples] has finished in [4,865] ms
+05-Oct-2020 09:57:59.925 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\host-manager]
+05-Oct-2020 09:58:00.325 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\host-manager] has finished in [400] ms
+05-Oct-2020 09:58:00.327 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\manager]
+05-Oct-2020 09:58:00.936 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\manager] has finished in [609] ms
+05-Oct-2020 09:58:00.939 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\ROOT]
+05-Oct-2020 09:58:01.235 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\ASUS\Documents\SEM-2\G5CinemaMovie\apache-tomcat-9.0.38\webapps\ROOT] has finished in [295] ms
+05-Oct-2020 09:58:01.244 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+05-Oct-2020 09:58:01.266 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [9267] milliseconds
+05-Oct-2020 10:13:01.678 INFO [http-nio-8080-exec-8] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/G5CinemaMovie] has started
+05-Oct-2020 10:13:02.224 INFO [27] org.apache.catalina.core.StandardContext.reload Reloading Context with name [/G5CinemaMovie] is completed
+05-Oct-2020 10:15:31.377 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+05-Oct-2020 10:15:31.378 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+05-Oct-2020 10:15:31.407 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+05-Oct-2020 10:15:31.449 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+05-Oct-2020 10:15:31.456 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
